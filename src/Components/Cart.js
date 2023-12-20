@@ -64,7 +64,7 @@ function Cart() {
             </tbody>
           </Table>
           <h3 className="d-flex justify-content-center align-items-center">
-            <Link to="Buy" className="btn btn-primary w-50">
+            <Link to="/Buy" className="btn btn-primary w-50">
               {" "}
               Buy
             </Link>
